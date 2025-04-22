@@ -7,6 +7,8 @@ Welcome to my data portfolio. I'm currently working as an Actuarial Analyst at G
 - Built interactive dashboards to visualize pricing and renewal KPIs.
 - Automated daily data pipeline from SQL Server to Microsoft Fabric using Spark.
 - Used Lakehouse to manage data storage and governance.
+  
+_**Note**: The data shown in this dashboard is simulated and does not represent the company's actual data, in order to maintain confidentiality and comply with data protection policies._
 
 ![Dashboard Screenshot](images/GIC_dashboard_MT.png)
 
