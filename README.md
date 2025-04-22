@@ -8,7 +8,7 @@ Welcome to my data portfolio. I'm currently working as an Actuarial Analyst at G
 - Automated daily data pipeline from SQL Server to Microsoft Fabric using Spark.
 - Used Lakehouse to manage data storage and governance.
 
-![Dashboard Screenshot](images/gic_dashboard.png)
+![Dashboard Screenshot](images/GIC_dashboard_MT.png)
 
 ### 2. AKUR8 Pricing Model
 - Supported model development using machine learning techniques.
