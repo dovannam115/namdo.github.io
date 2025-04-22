@@ -10,7 +10,13 @@ Welcome to my data portfolio. I'm currently working as an Actuarial Analyst at G
   
 _**Note**: The data shown in this dashboard is simulated and does not represent the company's actual data, in order to maintain confidentiality and comply with data protection policies._
 
+The first part of the dashboard provides a company-wide overview to help stakeholders quickly grasp the overall performance.
+
 ![Dashboard Screenshot](images/GIC_dashboard_MT.png)
+
+The dashboard below is designed with drillthrough functionality to individual business units, providing a more granular and in-depth view.
+
+![Dashboard Screenshot](images/GIC_dashboard_MT_drillthough.png)
 
 ### 2. AKUR8 Pricing Model
 - Supported model development using machine learning techniques.
