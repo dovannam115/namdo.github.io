@@ -19,7 +19,7 @@ The dashboard below is designed with drillthrough functionality to individual bu
 ![Dashboard Screenshot](images/GIC_dashboard_MT_drillthough.png)
 
 
-![Dashboard Screenshot](video/dashboard_motor.mp4)
+![Dashboard Screenshot](https://vimeo.com/1077922698)
 ### 2. AKUR8 Pricing Model
 - Supported model development using machine learning techniques.
 - Worked with actuarial data to optimize motor insurance pricing.
