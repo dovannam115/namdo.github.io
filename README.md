@@ -16,7 +16,7 @@ The first part of the dashboard provides a company-wide overview to help stakeho
 
 Watch the video Dashboard:
 
-[![Watch the video Dashboard]([img]https://i.imgur.com/yzKq5Dv.jpeg[/img])](https://vimeo.com/1077922698)
+[![Watch the video Dashboard](https://i.imgur.com/yzKq5Dv.jpeg)](https://vimeo.com/1077922698)
 
 ### 2. AKUR8 Pricing Model
 - Supported model development using machine learning techniques.
