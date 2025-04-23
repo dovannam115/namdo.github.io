@@ -3,7 +3,7 @@ Welcome to my data portfolio. I'm currently working as an Actuarial Science at G
 
 ## 📊 Projects
 
-### 1. GIC – Automated Actuarial Reporting Dashboard (Power BI)
+### 1. GIC – Motor Actuarial Dashboard Daily (Power BI)
 - Built interactive dashboards to visualize pricing and renewal KPIs.
 - Automated daily data pipeline from SQL Server to Microsoft Fabric using Spark.
 - Used Lakehouse to manage data storage and governance.
