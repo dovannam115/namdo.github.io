@@ -14,10 +14,6 @@ The first part of the dashboard provides a company-wide overview to help stakeho
 
 ![Dashboard Screenshot](images/GIC_dashboard_MT.png)
 
-The dashboard below is designed with drillthrough functionality to individual business units, providing a more granular and in-depth view.
-
-![Dashboard Screenshot](images/GIC_dashboard_MT_drillthough.png)
-
 Watch the video Dashboard:
 
 [![Watch the video Dashboard](https://i.imgur.com/UH3IPXw.png)](https://vimeo.com/1077922698)
