@@ -16,8 +16,7 @@ The first part of the dashboard provides a company-wide overview to help stakeho
 
 Watch the video Dashboard:
 
-[![Watch the video Dashboard]
-<p align="center"><img src="./video/dashboard_motor.gif" alt="dashboard_motor.gif" /></p>
+[![Watch the video Dashboard](https://i.imgur.com/yzKq5Dv.jpeg)](https://vimeo.com/1077922698)
 ### 2. AKUR8 Pricing Model
 - Supported model development using machine learning techniques.
 - Worked with actuarial data to optimize motor insurance pricing.
