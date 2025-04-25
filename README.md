@@ -3,7 +3,7 @@ Welcome to my data portfolio. I'm currently working as an Actuarial Science at G
 
 ## 📊 Projects
 
-### 1. Motor Actuarial Dashboard Daily - ETL with MS Fabric:
+### 1. Motor Actuarial Dashboard Daily - ETL with MS Fabric(https://github.com/dovannam115/ETL_Motor_Project/tree/main):
 - Built interactive dashboards to visualize pricing and renewal KPIs.
 - Automated daily data pipeline from SQL Server to Microsoft Fabric using Spark.
 - Used Lakehouse to manage data storage and governance.
