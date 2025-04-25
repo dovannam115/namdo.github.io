@@ -3,7 +3,7 @@ Welcome to my data portfolio. I'm currently working as an Actuarial Science at G
 
 ## 📊 Projects
 
-### 1. GIC – Motor Actuarial Dashboard Daily (Power BI)
+### 1. Motor Actuarial Dashboard Daily (Power BI)
 - Built interactive dashboards to visualize pricing and renewal KPIs.
 - Automated daily data pipeline from SQL Server to Microsoft Fabric using Spark.
 - Used Lakehouse to manage data storage and governance.
@@ -17,9 +17,18 @@ The first part of the dashboard provides a company-wide overview to help stakeho
 Watch the video Dashboard:
 
 [![Watch the video Dashboard](https://i.imgur.com/yzKq5Dv.jpeg)](https://vimeo.com/1077922698)
-### 2. AKUR8 Pricing Model
-- Supported model development using machine learning techniques.
-- Worked with actuarial data to optimize motor insurance pricing.
+
+### 2. Renewal Performance Dashboard (Power BI)
+- Designed an interactive dashboard to monitor renewal performance across business units, time periods, and loss ratio groups.
+- Visualized key metrics such as overall renewal rate, top 5 units by exposure, and performance scatter plots.
+- Implemented advanced Power BI features like drill-down, conditional formatting, and custom tooltips.
+- Data was sourced from SQL Server and refreshed on a scheduled basis for up-to-date reporting.
+
+_**Note**: The data shown in this dashboard is simulated and does not represent the company's actual data, in order to maintain confidentiality and comply with data protection policies._
+
+This dashboard enables teams to identify retention opportunities and evaluate the impact of claims on customer behavior.
+
+![Dashboard Screenshot](images/Dashboard_Renewal.png)
 
 ### 3. Azure ETL Pipeline for Bike Share Data
 - Built ETL pipeline in Azure using Databricks and Delta Lake.
