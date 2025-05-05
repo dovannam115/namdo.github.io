@@ -30,9 +30,6 @@ This dashboard enables teams to identify retention opportunities and evaluate th
 
 ![Dashboard Screenshot](images/Dashboard_Renewal.png)
 
-### 3. Azure ETL Pipeline for Bike Share Data
-- Built ETL pipeline in Azure using Databricks and Delta Lake.
-- Designed star schema and gold layer reporting structure.
 
 ## 📬 Contact
 - Email: dovannama5qtk48@gmail.com
