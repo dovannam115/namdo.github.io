@@ -28,7 +28,7 @@ _**Note**: The data shown in this dashboard is simulated and does not represent 
 
 This dashboard enables teams to identify retention opportunities and evaluate the impact of claims on customer behavior.
 
-![Dashboard Screenshot](images/Dashboard_Renewal.png)
+![Dashboard Screenshot](images/Dashboard_RenewalRate.png)
 
 
 ## 📬 Contact
