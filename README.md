@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Nam!
-Welcome to my data portfolio. I'm currently working as an Actuarial Analyst at GIC with a strong focus on Business Intelligence, Data Engineering and Data Analytics.
+Welcome to my data portfolio. I'm currently working as an Actuarial Analyst at GIC with a strong focus on Business Intelligence, Data Engineering and Data Analyst.
 
 ## 📊 Projects
 
