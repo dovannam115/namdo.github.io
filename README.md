@@ -25,8 +25,6 @@ _**Note**: The data shown in this dashboard is simulated and does not represent 
 
 _**Note**: The data shown in this dashboard is simulated and does not represent the company's actual data, in order to maintain confidentiality and comply with data protection policies._
 
-This dashboard enables teams to identify retention opportunities and evaluate the impact of claims on customer behavior.
-
 ![Dashboard Screenshot](images/Dashboard_RenewalRate.png)
 
 
