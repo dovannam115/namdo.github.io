@@ -12,9 +12,9 @@ _**Note**: The data shown in this dashboard is simulated and does not represent 
 
 The first part of the dashboard provides a company-wide overview to help stakeholders quickly grasp the overall performance.
 
-![Dashboard Screenshot](images/GIC_dashboard_MT.png)
+![Dashboard Screenshot](images/overall.png)
 
-![Dashboard Screenshot](images/GIC_dashboard_MT.png)
+![Dashboard Screenshot](images/detail.png)
 
 
 ### 2. Renewal Performance Dashboard (Power BI)
