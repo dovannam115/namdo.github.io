@@ -32,4 +32,4 @@ This dashboard enables teams to identify retention opportunities and evaluate th
 
 ## 📬 Contact
 - Email: dovannama5qtk48@gmail.com
-- LinkedIn: [nam-do-b74250222](https://www.linkedin.com/in/nam-do-b74250222/)
+- LinkedIn: [Nam Do]([https://www.linkedin.com/in/nam-do-b74250222/](https://www.linkedin.com/in/nam-do-366926351/))
