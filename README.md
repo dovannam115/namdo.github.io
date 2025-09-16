@@ -14,9 +14,8 @@ The first part of the dashboard provides a company-wide overview to help stakeho
 
 ![Dashboard Screenshot](images/GIC_dashboard_MT.png)
 
-Watch the video Dashboard:
+![Dashboard Screenshot](images/GIC_dashboard_MT.png)
 
-[![Watch the video Dashboard](https://i.imgur.com/yzKq5Dv.jpeg)](https://vimeo.com/1077922698)
 
 ### 2. Renewal Performance Dashboard (Power BI)
 - Designed an interactive dashboard to monitor renewal performance across business units, time periods, and loss ratio groups.
